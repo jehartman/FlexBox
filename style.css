@@ -1,0 +1,27 @@
+div {
+	border: 1px solid black;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.topPanel {
+	flex-basis: 100%;
+	display: block;
+	width: 100%;
+}
+
+.grow {
+	flex-grow: 1;
+}
+
+.grow2 {
+	flex-grow: 2;
+}
+
+#squaresContainer {
+	color: blue;
+}

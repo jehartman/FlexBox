@@ -29,3 +29,7 @@ div {
 #squaresContainer {
 	color: blue;
 }
+
+.space-evenly {
+	justify-content: space-evenly;
+}
